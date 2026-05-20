@@ -1,5 +1,5 @@
 # 💫 About Me:
-iam  a student at goverment polytechnic nagpur i am learning github<br>
+I am an Artificial Intelligence and Machine Learning student at Government Polytechnic, Nagpur. I am passionate about building intelligent systems<br>
 
 
 ## 🌐 Socials:
